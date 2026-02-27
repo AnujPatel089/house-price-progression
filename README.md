@@ -58,4 +58,4 @@ The chosen model provides reliable price predictions and insights into the relat
    git clone https://github.com/AnujPatel089/house-price-progression
 
 ## How to run
-Link :- https://house-price-progression.streamlit.app/
+Link :- https://house-price-progression-jbpgkqz9amccupwneks6pg.streamlit.app/
