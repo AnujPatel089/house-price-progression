@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import pandas as pd
 import numpy as np
 import plotly.express as px
@@ -107,4 +106,5 @@ if 'prediction_made' in st.session_state:
     st.dataframe(pd.DataFrame(summary_data), use_container_width=True)
 
 st.markdown("---")
+
 st.markdown("*SAIT Integrated AI | Deployed on Streamlit Cloud*")
